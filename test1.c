@@ -5,7 +5,7 @@ int main() {
     char input[666];
 
     while (1) {
-        printf("ÇëÊäÈë£º");
+        printf("è¯·æ‚¨è¾“å…¥ï¼š");
         scanf("%s", input);
 
         if (strcmp(input, "Dian") == 0)
